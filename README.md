@@ -1,3 +1,4 @@
+Linear_X.csv and Linear_Y.csv are the datasets used in P1
 mnist_train.csv has not been uploaded due to size,and is used in Project_handwritten_digit_using_KNN.  
 mnist dataset is a collection of different images of handwritten digit along with their respective label(what digit)
 xdata.csv and ydata.csv are used in KNN_Implementation         
